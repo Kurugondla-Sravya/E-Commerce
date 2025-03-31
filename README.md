@@ -32,4 +32,7 @@ Shipping & Reviews: Relationship between shipping time and customer review score
 
 
 🎯 You're Done! 🎯
-Your Olist Store Analysis Dashboard is now live on GitHub and ready to be shared with your network! 🚀 Let me know if you need any refinements. 😊
+
+Your Olist Store Analysis Dashboard is now live on GitHub and ready to be shared with your network! 
+
+🚀 Let me know if you need any refinements. 😊
