@@ -26,7 +26,10 @@ Product Insights: Top-selling product categories.
 Customer Behavior: Purchase patterns based on weekdays vs. weekends.
 
 Shipping & Reviews: Relationship between shipping time and customer review scores.
+
 🖼️ Dashboard Preview:
-![Dashboard Preview](image.png)
+![image](https://github.com/user-attachments/assets/7f1541de-aa5f-402a-9c51-05162911b10e)
+
+
 🎯 You're Done! 🎯
 Your Olist Store Analysis Dashboard is now live on GitHub and ready to be shared with your network! 🚀 Let me know if you need any refinements. 😊
